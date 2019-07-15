@@ -1,0 +1,42 @@
+Lab02
+nadien zerban
+
+Q1:
+Ans:It outputs a list of all files found in my home directory and it's subdirectories.
+
+
+Q2:
+Ans:find -name *.bash
+
+Q3:
+Ans:./CS265/Week_1/hello.bash
+   ./tmp/gotMe.bash
+
+Q4:
+Ans:Words = 421
+   Lines = 73
+   Characters = 2538
+
+Q5:
+Ans: grep the breadIsDangerous.txt | wc -l
+
+
+Q6:
+Ans:There is now a backup file of spellExample.
+
+Q7:
+Ans:The output displays the lines that were changed via the ispell utility and what
+   they were before the changes were made. 
+
+Q8:
+Ans: There was no output as there are no differences between the two files.
+
+Q9:
+Ans:$ du -hs */ | sort -nr | head
+
+
+Q10:
+Ans:0 : Everything worked as expected and no errors were encountered while locating
+	   the string.
+   1 : The string could not be found in the specified file(s).
+   2 : The specified file(s) could not be found.
